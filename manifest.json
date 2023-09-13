@@ -1,0 +1,12 @@
+{
+    "name":"Roll Dice",
+    "start_url":"./",
+    "display":"standalone",
+    "background_color":"orangered",
+    "icons":[
+        {
+            "src":"dice 72x72.png",
+            "sizes":"72x72"
+        }
+    ]
+}
