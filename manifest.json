@@ -5,8 +5,20 @@
     "background_color":"orangered",
     "icons":[
         {
+            "src":"dice 48x48.png",
+            "sizes":"48x48"
+        },  
+        {
             "src":"dice 72x72.png",
             "sizes":"72x72"
-        }
+        } , 
+        {
+            "src":"dice 96x96.png",
+            "sizes":"96x96"
+        },  
+        {
+            "src":"dice 144x144.png",
+            "sizes":"144x144"
+        }  
     ]
 }
